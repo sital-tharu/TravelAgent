@@ -1,2 +1,3 @@
 langchain-ollama
 llana3
+Python 3.10.16
